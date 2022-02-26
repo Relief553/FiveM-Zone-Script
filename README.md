@@ -5,6 +5,6 @@ Installation
 3. Add "start Relief_Zones" to your server.cfg without the ""
 4. Restart you server and you done
 
-
+Need Help? Well Join our discord https://discord.gg/etagEJsawf
 
 					 Copyright © 2022 Relief Development
